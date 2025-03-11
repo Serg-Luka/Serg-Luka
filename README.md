@@ -12,7 +12,7 @@ I am focused on building my career in cybersecurity and am looking for an entry-
 
 List of skills and their associated projects.
 
-<h3><u>Google Professional Cybersecurity Labs</u></h3>
+<h3><u>Google Cybersecurity Professional Labs</u></h3>
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
