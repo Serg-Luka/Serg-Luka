@@ -3,7 +3,7 @@
 
 I am an aspiring Security Analyst with a profound interest in IT security.
 
-<h2> 👨‍💻 Projects Overview </h2>
+<h2> 👨‍💻 Overview </h2>
 
 I am focused on building my career in cybersecurity and am looking for an entry-level role as a Tier 1 Analyst in a Security Operations Center (SOC). I have developed skills in threat detection, incident response, and system security, which are demonstrated in my project portfolio. I am eager to apply my knowledge in real-world environments and continue growing in the cybersecurity field.
   
