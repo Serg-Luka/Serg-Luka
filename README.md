@@ -19,7 +19,7 @@ List of skills and their associated projects.
 | Conducting a Security Audit and Risk Assessment Reporting          | <a href="https://github.com/Serg-Luka/Risk-Management-Lab/blob/main/README.md">Risk Management Lab</a>|
 | Managing Authorisation | <a href="https://github.com/Serg-Luka/Managing-Authorisation/blob/main/README.md">File Permissions Lab</a>|
 | Applying Filters to SQL Queries         | <a href="https://github.com/Serg-Luka/Applying-Filter-to-SQL-Queries/">SQL Lab</a>|
-| Vulnerability Assessment using NIST SP 800-30 Rev.1      | <a href="https://github.com/Serg-Luka/Conducting-a-Vulnerability-Assessment/">Vulnerability Assessment Lab</a>|
+| Vulnerability Assessment using NIST SP 800-30      | <a href="https://github.com/Serg-Luka/Conducting-a-Vulnerability-Assessment/">Vulnerability Assessment Lab</a>|
 | Packet Capture Analysis (Wireshark & tcpdump)                  |<a href="https://github.com/Serg-Luka/Packet-Capture-Analysis/">Network Analysis Lab</a>|
 | SIEM Querying with Splunk and Chronicle | SIEM Detection Lab|
 | Incident Handler's Journal      | <a href="https://github.com/Serg-Luka/Incident-Handler-Journal/">Incident Handler Lab</a>|
