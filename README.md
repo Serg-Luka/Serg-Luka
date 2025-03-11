@@ -59,35 +59,23 @@ Here is an overview of the tools in my toolkit.
 
 A list of my certifications, which can be verified by clicking the associated button.
 
-### CompTIA Certifications  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
+  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" style="display: block; margin-bottom: 0;" /> <br> 
-<img src="https://img.shields.io/badge/-CompTIA%20CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" style="display: block; margin-bottom: 0;" />
+  <img src="https://img.shields.io/badge/AZ--900:_Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft" />
 
-### Microsoft & Azure Certifications  
+  <a href="https://beacon.paloaltonetworks.com/student/award/kNFe9rFGXvakXz4p5aeiDzMF">
+    <img src="https://img.shields.io/badge/-Cybersecurity%20Fundamentals-4CAF50?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
+  </a>
 
-<img src="https://img.shields.io/badge/SC--900:_Microsoft%20Security,%20Compliance,%20and%20Identity-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white" style="display: block; margin-bottom: 0;" /> <br>
-<img src="https://img.shields.io/badge/AZ--900:_Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft" style="display: block; margin-bottom: 0;" /><br>
-<img src="https://img.shields.io/badge/AI--900:_Azure%20AI%20Fundamentals-blue?style=for-the-badge&logo=microsoft" style="display: block; margin-bottom: 0;" /> <br> 
-<img src="https://img.shields.io/badge/DP--900:_Azure%20Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft" style="display: block; margin-bottom: 0;" />
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-white?style=for-the-badge&logo=google&logoColor=black" />
 
-### Palo Alto Networks Certifications  
+  <a href="https://arcx.io/verify-certificate?id=9748cdafc432ee474ca1f3f5127af0cb3128103a&k=71a9fc096b784eacb659a3e88a2dcfb0">
+    <img src="https://img.shields.io/badge/ArcX%20Cyber%20Threat%20Intelligence%20101-orange?style=for-the-badge&logo=search&logoColor=white" />
+  </a>
+</div>
 
-<a href="https://beacon.paloaltonetworks.com/student/award/kNFe9rFGXvakXz4p5aeiDzMF">
-  <img src="https://img.shields.io/badge/-Cybersecurity%20Fundamentals-4CAF50?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" style="display: block; margin-bottom: 0;" />
-</a>
 
-### Google Certifications  
-
-<img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-white?style=for-the-badge&logo=google&logoColor=black" style="display: block; margin-bottom: 0;" />
-
-### Misc. Certifications  
-
-<img src="https://img.shields.io/badge/GitHub%20Advanced%20Security-6e40c9?style=for-the-badge&logo=github&logoColor=white" style="display: block; margin-bottom: 0;" /> <br> 
-<img src="https://img.shields.io/badge/-Linux_Professional_Institute_Linux_Essentials%2B-EEB422?&style=for-the-badge&logo=linux&logoColor=white" style="display: block; margin-bottom: 0;" /> <br>
-<a href="https://arcx.io/verify-certificate?id=9748cdafc432ee474ca1f3f5127af0cb3128103a&k=71a9fc096b784eacb659a3e88a2dcfb0">
-  <img src="https://img.shields.io/badge/ArcX%20Cyber%20Threat%20Intelligence%20101-orange?style=for-the-badge&logo=search&logoColor=white" style="display: block; margin-bottom: 0;" />
-</a>
 
 
 <h2> 🎓 Formal Education </h2>
