@@ -12,6 +12,8 @@ I am focused on building my career in cybersecurity and am looking for an entry-
 
 List of skills and their associated projects.
 
+<h3><u>Google Professional Cybersecurity Labs</u></h3>
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Conducting a Security Audit and Risk Assessment Reporting          | <a href="https://github.com/Serg-Luka/Risk-Management-Lab/blob/main/README.md">Risk Management Lab</a>|
@@ -22,6 +24,12 @@ List of skills and their associated projects.
 | SIEM Querying with Splunk and Chronicle | SIEM Detection Lab|
 | Incident Handler's Journal      | <a href="https://github.com/Serg-Luka/Incident-Handler-Journal/">Incident Handler Lab</a>|
 | Attack Simulation and Threat Analysis (PASTA) Model      | <a href="https://github.com/Serg-Luka/Identify-Security-Requirements-with-PASTA/tree/main">PASTA Worksheet</a>|
+
+<h3><u>Personal Cybersecurity Labs</u></h3>
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Coming Soon         | Coming Soon 
 
 <h2> 🛠️ Tools </h2>
 
