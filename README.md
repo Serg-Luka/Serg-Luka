@@ -14,11 +14,17 @@ I am focused on building my career in cybersecurity and am looking for an entry-
 
 List of skills and their associated projects.
 
+<h3><u>Personal Cybersecurity Labs</u></h3>
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Securing SSH with Fail2Ban, UFW, KeyAuth and Tailscale      | <a href="https://github.com/Serg-Luka/SSH-Hardening-Home-Lab">SSH Hardening Home Lab</a>|
+
 <h3><u>Google Cybersecurity Professional Labs</u></h3>
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conducting a Security Audit and Risk Assessment Reporting          | <a href="https://github.com/Serg-Luka/Risk-Management-Lab/blob/main/README.md">Risk Management Lab</a>|
+| Security Audit and Risk Assessment Reporting          | <a href="https://github.com/Serg-Luka/Risk-Management-Lab/blob/main/README.md">Risk Management Lab</a>|
 | Managing Authorisation | <a href="https://github.com/Serg-Luka/Managing-Authorisation/blob/main/README.md">File Permissions Lab</a>|
 | Applying Filters to SQL Queries         | <a href="https://github.com/Serg-Luka/Applying-Filter-to-SQL-Queries/">SQL Lab</a>|
 | Vulnerability Assessment using NIST SP 800-30      | <a href="https://github.com/Serg-Luka/Conducting-a-Vulnerability-Assessment/">Vulnerability Assessment Lab</a>|
@@ -26,12 +32,6 @@ List of skills and their associated projects.
 | SIEM Querying with Splunk and Chronicle | SIEM Detection Lab|
 | Incident Handler's Journal      | <a href="https://github.com/Serg-Luka/Incident-Handler-Journal/">Incident Handler Lab</a>|
 | Attack Simulation and Threat Analysis (PASTA) Model      | <a href="https://github.com/Serg-Luka/Identify-Security-Requirements-with-PASTA/tree/main">PASTA Worksheet</a>|
-
-<h3><u>Personal Cybersecurity Labs</u></h3>
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Coming Soon         | Coming Soon 
 
 <h2> 🛠️ Tools </h2>
 
