@@ -66,18 +66,18 @@ A list of my certifications, which can be verified by clicking the associated bu
 
   <img src="https://img.shields.io/badge/AZ--900:_Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft" />
 
-  <a href="https://beacon.paloaltonetworks.com/student/award/kNFe9rFGXvakXz4p5aeiDzMF">
+  <a href="https://beacon.paloaltonetworks.com/student/award/kNFe9rFGXvakXz4p5aeiDzMF" target="_blank">
     <img src="https://img.shields.io/badge/-Cybersecurity%20Fundamentals-4CAF50?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
   </a>
 
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-white?style=for-the-badge&logo=google&logoColor=black" />
+  <a href="https://www.credly.com/badges/f6e7de1d-c485-495a-961b-4479fb1612b8/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-white?style=for-the-badge&logo=google&logoColor=black" />
+  </a>
 
-  <a href="https://arcx.io/verify-certificate?id=9748cdafc432ee474ca1f3f5127af0cb3128103a&k=71a9fc096b784eacb659a3e88a2dcfb0">
+  <a href="https://arcx.io/verify-certificate?id=9748cdafc432ee474ca1f3f5127af0cb3128103a&k=71a9fc096b784eacb659a3e88a2dcfb0" target="_blank">
     <img src="https://img.shields.io/badge/ArcX%20Cyber%20Threat%20Intelligence%20101-orange?style=for-the-badge&logo=search&logoColor=white" />
   </a>
 </div>
-
-
 
 
 <h2> 🎓 Formal Education </h2>
