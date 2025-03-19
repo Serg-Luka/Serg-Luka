@@ -3,11 +3,9 @@
 # Hello there, I'm Sergey!
 <a href="https://www.linkedin.com/in/serg-luka/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an aspiring Security Analyst with a profound interest in IT security.
-
 <h2> 👨‍💻 Overview </h2>
 
-I am focused on building my career in cybersecurity and am looking for an entry-level role as a Tier 1 Analyst in a Security Operations Center (SOC). I have developed skills in threat detection, incident response, and system security, which are demonstrated in my project portfolio. I am eager to apply my knowledge in real-world environments and continue growing in the cybersecurity field.
+<p>I am committed to advancing my career in cybersecurity and am actively seeking a role as a <strong>Cybersecurity Analyst</strong>. I have developed skills in <strong>threat detection</strong>, <strong>incident response</strong>, and <strong>system security</strong>, all of which are demonstrated in my project portfolio. I am eager to apply my knowledge in real-world environments and continue to grow and evolve in the dynamic field of cybersecurity.</p>
   
 
 <h2> 🧰 Cybersecurity Labs </h2>
