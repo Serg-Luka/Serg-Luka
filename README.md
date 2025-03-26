@@ -16,7 +16,8 @@ List of skills and their associated projects.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Securing SSH with Fail2Ban, UFW, KeyAuth and Tailscale      | <a href="https://github.com/Serg-Luka/SSH-Hardening-Home-Lab">SSH Hardening Home Lab</a>|
+| Securing SSH with Fail2Ban, UFW, KeyAuth, and Tailscale | <a href="https://github.com/Serg-Luka/SSH-Hardening-Home-Lab">SSH Hardening Home Lab</a> |
+| Vulnerability Scanning and Remediation with Tenable Nessus | <a href="https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows">Scan & Remediation with Nessus</a> |
 
 <h3><u>Google Cybersecurity Professional Labs</u></h3>
 
