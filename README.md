@@ -51,14 +51,12 @@ Here is an overview of the tools in my toolkit.
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## 📑 Certifications
@@ -103,12 +101,3 @@ A list of my certifications, which can be verified by clicking the associated bu
 
 <a href="https://github.com/Serg-Luka/Blue-Team-Links/blob/main/README.md ">Blue Team Reference Links</a>
 
-
-<h2> 📱 Connect with me:</h2>
-
-[<img align="left" alt="SergeyLukashov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SergeyLukashov | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Email]
-
-[Email]: mailto:serg_luka@outlook.com
-[linkedin]: https://www.linkedin.com/in/serg-luka/
-<!--
