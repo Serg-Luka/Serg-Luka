@@ -24,6 +24,13 @@ List of skills and their associated projects.
 | Securing SSH with Fail2Ban, UFW, KeyAuth, and Tailscale | <a href="https://github.com/Serg-Luka/SSH-Hardening-Home-Lab">SSH Hardening Home Lab</a> |
 | Vulnerability Scanning and Remediation with Tenable Nessus | <a href="https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows">Scan & Remediation with Nessus</a> |
 
+<h3><u>Threat Hunting Labs</u></h3>
+
+| Skill                                             | Associated Project                                                                 |
+|---------------------------------------------------|------------------------------------------------------------------------------------|
+| Threat Hunting for Brute Force Attacks           | <a href="https://github.com/Serg-Luka/threat-hunting-brute-force">Brute Force Detection Using KQL and Microsoft Defender</a> |
+
+
 <h3><u>Google Cybersecurity Professional Labs</u></h3>
 
 | Skill                                         | Associated Project         |
