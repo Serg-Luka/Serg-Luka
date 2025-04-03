@@ -6,11 +6,11 @@
 </a>
 <a href="mailto:serg_luka@outlook.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-</a>
+</a><br>
 
 ### 👨‍💻 Overview
 ---
-<p>I am committed to advancing my career in cybersecurity and am actively seeking a role as a <strong>Cybersecurity Analyst</strong>. I have developed skills in <strong>threat detection</strong>, <strong>incident response</strong>, and <strong>system security</strong>, all of which are demonstrated in my project portfolio. I am eager to apply my knowledge in real-world environments and continue to grow and evolve in the dynamic field of cybersecurity.</p>
+<p>I am committed to advancing my career in cybersecurity and am actively seeking a role as a <strong>Cybersecurity Analyst</strong>. I have developed skills in <strong>threat detection</strong>, <strong>incident response</strong>, and <strong>system security</strong>, all of which are demonstrated in my project portfolio. I am eager to apply my knowledge in real-world environments and continue to grow and evolve in the dynamic field of cybersecurity.</p><br>
 
 
 ### 💻 My TryHackMe Profile
@@ -18,7 +18,8 @@
 <p>Check out my progress and accomplishments on TryHackMe!</p>
 <a href="https://tryhackme.com/p/SergLuka" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/SergLuka.png" alt="TryHackMe Badge" />
-</a>
+</a><br>
+
 
 ### 🧰 Cybersecurity Labs
 ---
@@ -51,7 +52,7 @@ Skills and the associated hands-on projects that demonstrate practical experienc
 | SIEM Querying with Splunk and Chronicle | SIEM Detection Lab|
 | Incident Handler's Journal      | <a href="https://github.com/Serg-Luka/Incident-Handler-Journal/">Incident Handler Lab</a>|
 | Attack Simulation and Threat Analysis (PASTA) Model      | <a href="https://github.com/Serg-Luka/Identify-Security-Requirements-with-PASTA/tree/main">PASTA Worksheet</a>|
-
+<br>
 
 ### 🛠️ Tools
 ---
@@ -100,7 +101,7 @@ Here’s a look at the tools I’ve worked with and have experience using.
     <img src="https://img.shields.io/badge/-Cisco_Talos-0061F2?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Abuse.CH-5C5C5C?&style=for-the-badge&logo=AbuseCH&logoColor=white" />
     <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-FF4F00?&style=for-the-badge&logo=MITRE&logoColor=white" />
-</div>
+</div><br>
 
 
 ### 📑 Certifications
@@ -126,13 +127,15 @@ A list of my certifications, which can be verified by clicking the associated bu
   <a href="https://arcx.io/verify-certificate?id=9748cdafc432ee474ca1f3f5127af0cb3128103a&k=71a9fc096b784eacb659a3e88a2dcfb0" target="_blank">
     <img src="https://img.shields.io/badge/ArcX%20Cyber%20Threat%20Intelligence%20101-orange?style=for-the-badge&logo=search&logoColor=white" />
   </a>
-</div>
+</div><br>
+
 
 ### 🎓 Formal Education
 ---
 
 **First-Class Honours Degree in Business Studies**  
-*Nottingham Trent University*
+*Nottingham Trent University*<br>
+
 
 
 ### 🎯 Notable Soft Skills
@@ -144,7 +147,8 @@ A list of my certifications, which can be verified by clicking the associated bu
 - Highly Collaborative
 - Curious Continuous Learner
 - Significant Business Acumen
-- Customer Service Orientation
+- Customer Service Orientation<br>
+
 
 ### 📌 Helpful Resources
 ---
