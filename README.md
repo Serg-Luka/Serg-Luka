@@ -11,7 +11,15 @@
 <h2> 👨‍💻 Overview </h2>
 
 <p>I am committed to advancing my career in cybersecurity and am actively seeking a role as a <strong>Cybersecurity Analyst</strong>. I have developed skills in <strong>threat detection</strong>, <strong>incident response</strong>, and <strong>system security</strong>, all of which are demonstrated in my project portfolio. I am eager to apply my knowledge in real-world environments and continue to grow and evolve in the dynamic field of cybersecurity.</p>
-  
+
+<section id="tryhackme">
+    <h2>💻 My TryHackMe Profile</h2>
+    <p>Check out my progress and accomplishments on TryHackMe!</p>
+    <a href="https://tryhackme.com/p/SergLuka" target="_blank">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/SergLuka.png" alt="TryHackMe Badge" />
+    </a>
+</section>
+
 
 <h2> 🧰 Cybersecurity Labs </h2>
 
