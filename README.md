@@ -49,38 +49,47 @@ List of skills and their associated projects.
 Here’s a look at the tools I’ve worked with and have experience using.
 
 ### Network
-<div>
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
-<div>
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM
-<div>
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ### Vulnerability Scanning
-<div>
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-Tenable_Nessus-00C176?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
 ### Email Analysis
-<div>
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-PhishTool-FF5733?&style=for-the-badge&logo=PhishTool&logoColor=white" />
 </div>
 
 ### OS
-<div>
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+</div>
+
+### Analysis Tools
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/-URLscan-FF6600?&style=for-the-badge&logo=URLscan&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-2D9B1D?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Talos-0061F2?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Abuse.CH-5C5C5C?&style=for-the-badge&logo=AbuseCH&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-FF4F00?&style=for-the-badge&logo=MITRE&logoColor=white" />
 </div>
 
 
