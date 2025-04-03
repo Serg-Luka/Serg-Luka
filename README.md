@@ -23,7 +23,7 @@
 
 <h2> 🧰 Cybersecurity Labs </h2>
 
-List of skills and their associated projects.
+Skills and the associated hands-on projects that demonstrate practical experience.
 
 <h3><u>Personal Cybersecurity Labs</u></h3>
 
