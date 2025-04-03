@@ -25,7 +25,7 @@ Connect with me.
 
 ## 🧰 Cybersecurity Labs
 
-Skills and the associated hands-on projects that demonstrate practical experience.
+My skills and the hands-on projects that showcase my practical experience.
 
 #### Personal Cybersecurity Labs
 
