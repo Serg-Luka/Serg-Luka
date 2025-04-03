@@ -138,13 +138,13 @@ A list of my certifications, which can be verified by clicking the associated bu
 
 ## 🎯 Notable Soft Skills
 
-- Highly Adaptable
-- Strong written and verbal communication skills
-- Problem Solving Ability 
-- Highly Collaborative
-- Curious Continuous Learner
-- Significant Business Acumen
-- Customer Service Orientation<br><br>
+- Highly adaptable  
+- Strong written and verbal communication skills  
+- Excellent problem-solving abilities  
+- Strong team player with a collaborative mindset  
+- Inquisitive and committed to continuous learning  
+- Solid business acumen
+<br><br>
 
 
 ## 📌 Helpful Resources
