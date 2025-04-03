@@ -29,21 +29,21 @@ My skills and the hands-on projects that showcase my practical experience.
 
 #### Personal Cybersecurity Labs
 
-| Skill                                         | Associated Project         |
+| Focus Area                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Securing SSH with Fail2Ban, UFW, KeyAuth, and Tailscale | <a href="https://github.com/Serg-Luka/SSH-Hardening-Home-Lab">SSH Hardening Home Lab</a> |
 | Vulnerability Scanning and Remediation with Tenable Nessus | <a href="https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows">Scan & Remediation with Nessus</a> |
 
 #### Threat Hunting Labs
 
-| Skill                                             | Associated Project                                                                 |
+| Focus Area                                             | Associated Project                                                                 |
 |---------------------------------------------------|------------------------------------------------------------------------------------|
 | Threat Hunting for Brute Force Attacks           | <a href="https://github.com/Serg-Luka/threat-hunting-brute-force">Brute Force Detection Using KQL and Microsoft Defender</a> |
 
 
 #### Google Cybersecurity Professional Labs
 
-| Skill                                         | Associated Project         |
+| Focus Area                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Audit and Risk Assessment Reporting          | <a href="https://github.com/Serg-Luka/Risk-Management-Lab/blob/main/README.md">Risk Management Lab</a>|
 | Managing Authorisation | <a href="https://github.com/Serg-Luka/Managing-Authorisation/blob/main/README.md">File Permissions Lab</a>|
