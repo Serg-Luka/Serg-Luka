@@ -8,12 +8,12 @@
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a><br>
 
-### 👨‍💻 Overview
+## 👨‍💻 Overview
 ---
 <p>I am committed to advancing my career in cybersecurity and am actively seeking a role as a <strong>Cybersecurity Analyst</strong>. I have developed skills in <strong>threat detection</strong>, <strong>incident response</strong>, and <strong>system security</strong>, all of which are demonstrated in my project portfolio. I am eager to apply my knowledge in real-world environments and continue to grow and evolve in the dynamic field of cybersecurity.</p><br>
 
 
-### 💻 My TryHackMe Profile
+## 💻 My TryHackMe Profile
 ---
 <p>Check out my progress and accomplishments on TryHackMe!</p>
 <a href="https://tryhackme.com/p/SergLuka" target="_blank">
@@ -22,7 +22,7 @@
 
 
 
-### 🧰 Cybersecurity Labs
+## 🧰 Cybersecurity Labs
 ---
 
 Skills and the associated hands-on projects that demonstrate practical experience.
@@ -55,7 +55,7 @@ Skills and the associated hands-on projects that demonstrate practical experienc
 | Attack Simulation and Threat Analysis (PASTA) Model      | <a href="https://github.com/Serg-Luka/Identify-Security-Requirements-with-PASTA/tree/main">PASTA Worksheet</a>|
 <br>
 
-### 🛠️ Tools
+## 🛠️ Tools
 ---
 
 Here’s a look at the tools I’ve worked with and have experience using.
@@ -105,7 +105,7 @@ Here’s a look at the tools I’ve worked with and have experience using.
 </div><br>
 
 
-### 📑 Certifications
+## 📑 Certifications
 ---
 
 A list of my certifications, which can be verified by clicking the associated button.
@@ -131,7 +131,7 @@ A list of my certifications, which can be verified by clicking the associated bu
 </div><br>
 
 
-### 🎓 Formal Education
+## 🎓 Formal Education
 ---
 
 **First-Class Honours Degree in Business Studies**  
@@ -139,7 +139,7 @@ A list of my certifications, which can be verified by clicking the associated bu
 
 
 
-### 🎯 Notable Soft Skills
+## 🎯 Notable Soft Skills
 ---
 
 - Highly Adaptable
@@ -151,7 +151,7 @@ A list of my certifications, which can be verified by clicking the associated bu
 - Customer Service Orientation<br>
 
 
-### 📌 Helpful Resources
+## 📌 Helpful Resources
 ---
 
 <a href="https://github.com/Serg-Luka/Blue-Team-Links/blob/main/README.md ">Blue Team Reference Links</a>
