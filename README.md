@@ -38,7 +38,7 @@ My skills and the hands-on projects that showcase my practical experience.
 
 | Focus Area                                             | Associated Project                                                                 |
 |---------------------------------------------------|------------------------------------------------------------------------------------|
-| Threat Hunting for Brute Force Attacks           | <a href="https://github.com/Serg-Luka/threat-hunting-brute-force">Brute Force Detection Using KQL and Microsoft Defender</a> |
+| Threat Hunting Incident (MDE & KQL)           | <a href="https://github.com/Serg-Luka/threat-hunting-brute-force">Public Facing IP Detection</a> |
 
 
 #### Google Cybersecurity Professional Labs
