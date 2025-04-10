@@ -96,11 +96,13 @@ Here’s a look at the tools I’ve worked with and have experience using.
 
 #### Analysis Tools
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-URLscan-FF6600?&style=for-the-badge&logo=URLscan&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirusTotal-2D9B1D?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco_Talos-0061F2?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Abuse.CH-5C5C5C?&style=for-the-badge&logo=AbuseCH&logoColor=white" />
     <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-FF4F00?&style=for-the-badge&logo=MITRE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ANY.RUN-6A5ACD?&style=for-the-badge&logo=WindowsTerminal&logoColor=white" />
 </div><br>
 
 
