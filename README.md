@@ -29,17 +29,17 @@ My skills and the hands-on projects that showcase my practical experience.
 
 #### Personal Cybersecurity Labs
 
-| Focus Area                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Securing SSH with Fail2Ban, UFW, KeyAuth, and Tailscale | <a href="https://github.com/Serg-Luka/SSH-Hardening-Home-Lab">SSH Hardening Home Lab</a> |
-| Vulnerability Scanning and Remediation with Tenable Nessus | <a href="https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows">Scan & Remediation with Nessus</a> |
+| Focus Area                                         | Associated Project                                                                 |
+|----------------------------------------------------|------------------------------------------------------------------------------------|
+| SSH Hardening (Fail2Ban, UFW, KeyAuth, Tailscale) | <a href="https://github.com/Serg-Luka/SSH-Hardening-Home-Lab">Configuring Secure SSH</a> |
+| Vulnerability Management (Tenable Nessus)         | <a href="https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows">Nessus Scan & Remediation</a> |
 
 #### Threat Hunting Labs
 
 | Focus Area                                             | Associated Project                                                                 |
 |---------------------------------------------------|------------------------------------------------------------------------------------|
-| Threat Hunting Incident (MDE & KQL)           | <a href="https://github.com/Serg-Luka/threat-hunting-brute-force">Public Facing IP Detection</a> |
-| Threat Hunting Incident (MDE & KQL)           | <a href="https://github.com/Serg-Luka/Sudden-Network-Slowdowns-Incident">Sudden Network Slowdowns</a> |
+| External Threat Detection (MDE & KQL)            | <a href="https://github.com/Serg-Luka/threat-hunting-brute-force">Public Facing IP Detection</a> |
+| Internal Network Monitoring (MDE & KQL)         | <a href="https://github.com/Serg-Luka/Sudden-Network-Slowdowns-Incident">Sudden Network Slowdowns</a> |
 
 
 #### Google Cybersecurity Professional Labs
