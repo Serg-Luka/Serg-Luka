@@ -31,7 +31,7 @@ My skills and the hands-on projects that showcase my practical experience.
 
 | Focus Area                                         | Associated Project                                                                 |
 |----------------------------------------------------|------------------------------------------------------------------------------------|
-| SSH Hardening (Fail2Ban, UFW, KeyAuth, Tailscale) | <a href="https://github.com/Serg-Luka/SSH-Hardening-Home-Lab">Configuring Secure SSH</a> |
+| SSH Hardening (Fail2Ban, UFW, KeyAuth, Tailscale) | <a href="https://github.com/Serg-Luka/SSH-Hardening-Home-Lab">Enhancing SSH Security</a> |
 | Vulnerability Management (Tenable Nessus)         | <a href="https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows">Nessus Scan & Remediation</a> |
 
 #### Threat Hunting Labs
