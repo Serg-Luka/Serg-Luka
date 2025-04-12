@@ -40,6 +40,7 @@ My skills and the hands-on projects that showcase my practical experience.
 |---------------------------------------------------|------------------------------------------------------------------------------------|
 | External Threat Detection (MDE & KQL)            | <a href="https://github.com/Serg-Luka/threat-hunting-brute-force">Public Facing IP Detection</a> |
 | Internal Network Monitoring (MDE & KQL)         | <a href="https://github.com/Serg-Luka/Sudden-Network-Slowdowns-Incident">Sudden Network Slowdowns</a> |
+| Insider Threat Detection (MDE & KQL)             | <a href="https://github.com/Serg-Luka/Threat-Hunting-Incident-Data-Exfiltration-Employee">Data Exfiltration by Employee</a> |
 
 
 #### Google Cybersecurity Professional Labs
