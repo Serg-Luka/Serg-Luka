@@ -34,6 +34,12 @@ My skills and the hands-on projects that showcase my practical experience.
 | SSH Hardening (Fail2Ban, UFW, KeyAuth, Tailscale) | <a href="https://github.com/Serg-Luka/SSH-Hardening-Home-Lab">Enhancing SSH Security</a> |
 | Vulnerability Management (Tenable Nessus)         | <a href="https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows">Nessus Scan & Remediation</a> |
 
+#### Incident Response Labs
+
+| Focus Area                                             | Associated Project                                                                 |
+|---------------------------------------------------|------------------------------------------------------------------------------------|
+| Brute Force Attack Detection (Sentinel & KQL)     | <a href="https://github.com/Serg-Luka/Incident-Response-Brute-Force-Alert-Rule">Brute Force Alert Rule Creation</a> |
+
 #### Threat Hunting Labs
 
 | Focus Area                                             | Associated Project                                                                 |
