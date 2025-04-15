@@ -38,7 +38,7 @@ My skills and the hands-on projects that showcase my practical experience.
 
 | Focus Area                                             | Associated Project                                                                 |
 |---------------------------------------------------|------------------------------------------------------------------------------------|
-| Brute Force Attack Detection (Sentinel & KQL)     | <a href="https://github.com/Serg-Luka/Incident-Response-Brute-Force-Alert-Rule">Brute Force Alert Rule Creation</a> |
+| Incident Detection & Eradication (Sentinel)     | <a href="https://github.com/Serg-Luka/Incident-Response-Brute-Force-Alert-Rule">Brute Force Alert Rule Creation</a> |
 
 #### Threat Hunting Labs
 
