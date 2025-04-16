@@ -120,7 +120,6 @@ Here’s a look at the tools I’ve worked with and have experience using.
 A list of my certifications, which can be verified by clicking the associated button.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
-  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
   <img src="https://img.shields.io/badge/AZ--900:_Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft" />
 
