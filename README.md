@@ -122,7 +122,9 @@ A list of my certifications, which can be verified by clicking the associated bu
 
   <img src="https://img.shields.io/badge/AZ--900:_Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft" />
 
-  <img src="https://img.shields.io/badge/ISC2%20Certified%20in%20Cybersecurity-00A79D?style=for-the-badge&logo=ISC2&logoColor=white" /><br>
+  <a href="https://www.credly.com/badges/0c748194-4c62-48ff-b84d-897930aa1bc7/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/ISC2%20Certified%20in%20Cybersecurity-00A79D?style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 Certified in Cybersecurity Badge" />
+</a><br>
 
   <a href="https://www.credly.com/badges/f6e7de1d-c485-495a-961b-4479fb1612b8/linked_in_profile" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-white?style=for-the-badge&logo=google&logoColor=black" />
