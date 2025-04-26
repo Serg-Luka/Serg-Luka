@@ -18,7 +18,7 @@ Connect with me.
 ## 💻 My TryHackMe Profile
 <p>Check out my progress and accomplishments on TryHackMe!</p>
 <a href="https://tryhackme.com/p/SergLuka" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/SergLuka.png?🍕=pizza" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SergLuka.png?🍕=pizza1" />
 </a><br><br>
 
 
