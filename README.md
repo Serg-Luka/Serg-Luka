@@ -97,11 +97,14 @@ Here’s a look at the tools I’ve worked with and have experience using.
     <img src="https://img.shields.io/badge/-PhishTool-FF5733?&style=for-the-badge&logo=PhishTool&logoColor=white" />
 </div>
 
-#### OS
+#### Platforms
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-007FFF?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
 </div>
+
 
 #### Analysis Tools
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
