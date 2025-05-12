@@ -124,7 +124,9 @@ A list of my certifications, which can be verified by clicking the associated bu
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
 
-  <img src="https://img.shields.io/badge/AZ--900:_Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/SergLuka/4B42C5CE36F5C632?sharingId=E759FF9A21D23D5D" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/AZ--900:_Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft" alt="AZ-900: Azure Fundamentals Badge" />
+</a>
 
   <a href="https://www.credly.com/badges/0c748194-4c62-48ff-b84d-897930aa1bc7/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/ISC2%20Certified%20in%20Cybersecurity-00A79D?style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 Certified in Cybersecurity Badge" />
