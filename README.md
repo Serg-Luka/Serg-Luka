@@ -158,7 +158,8 @@ A list of my certifications, which can be verified by clicking the associated bu
 - Highly adaptable
 - Highly motivated self-learner
 - Strong written and verbal communication skills  
-- Excellent problem-solving abilities  
+- Excellent problem-solving abilities
+- Solid presentation skills  
 - Strong team player with a collaborative mindset  
 - Inquisitive and committed to continuous learning  
 - Solid business acumen
