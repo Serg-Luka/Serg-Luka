@@ -155,7 +155,8 @@ A list of my certifications, which can be verified by clicking the associated bu
 
 ## 🎯 Notable Soft Skills
 
-- Highly adaptable  
+- Highly adaptable
+- Highly motivated self-learner
 - Strong written and verbal communication skills  
 - Excellent problem-solving abilities  
 - Strong team player with a collaborative mindset  
