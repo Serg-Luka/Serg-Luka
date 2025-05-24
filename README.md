@@ -33,7 +33,7 @@ My skills and the hands-on projects that showcase my practical experience.
 | SSH Hardening (Fail2Ban, UFW, KeyAuth, Tailscale) | <a href="https://github.com/Serg-Luka/SSH-Hardening-Home-Lab">Enhancing SSH Security</a> |
 | Vulnerability Management (Tenable Nessus)         | <a href="https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows">Nessus Scan & Remediation</a> |
 | Network Threat Analysis (Reverse Shell Detection) | <a href="https://github.com/Serg-Luka/Analysing-Malicious-Traffic-with-Wireshark">Malicious Packet Analysis Using Wireshark</a> |
-| Cloud-Based Threat Monitoring (Azure Sentinel)    | <a href="https://github.com/Serg-Luka/SOC-and-Honeynet-in-Azure-Live-Traffic">Honeypot Monitoring in Azure (Live Traffic)</a> |
+| Cloud-Based Threat Monitoring (Azure Sentinel)    | <a href="https://github.com/Serg-Luka/SOC-and-Honeypot-in-Azure-Live-Traffic">Honeypot Monitoring in Azure (Live Traffic)</a> |
 | Cyber Kill Chain Mapping & APT Analysis (Splunk)  | <a href="https://github.com/Serg-Luka/Splunk-APT-Investigation">APT Investigation Using Splunk</a>            |
 
 #### Incident Response Labs
