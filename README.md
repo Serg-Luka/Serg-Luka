@@ -34,6 +34,7 @@ My skills and the hands-on projects that showcase my practical experience.
 | Vulnerability Management (Tenable Nessus)         | <a href="https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows">Nessus Scan & Remediation</a> |
 | Network Threat Analysis (Reverse Shell Detection) | <a href="https://github.com/Serg-Luka/Analysing-Malicious-Traffic-with-Wireshark">Malicious Packet Analysis Using Wireshark</a> |
 | Cloud-Based Threat Monitoring (Azure Sentinel)    | <a href="https://github.com/Serg-Luka/SOC-and-Honeynet-in-Azure-Live-Traffic">Honeypot Monitoring in Azure (Live Traffic)</a> |
+| Cyber Kill Chain Mapping & APT Analysis (Splunk)  | <a href="https://github.com/Serg-Luka/Splunk-APT-Investigation">APT Investigation Using Splunk</a>            |
 
 #### Incident Response Labs
 
@@ -55,8 +56,8 @@ My skills and the hands-on projects that showcase my practical experience.
 
 | Focus Area                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Audit and Risk Assessment Reporting          | <a href="https://github.com/Serg-Luka/Risk-Management-Lab/blob/main/README.md">Risk Management Lab</a>|
-| Managing Authorisation | <a href="https://github.com/Serg-Luka/Managing-Authorisation/blob/main/README.md">File Permissions Lab</a>|
+| Security Audit and Risk Assessment Reporting          | <a href="https://github.com/Serg-Luka/Risk-Management-Lab/">Risk Management Lab</a>|
+| Managing Authorisation | <a href="https://github.com/Serg-Luka/Managing-Authorisation/">File Permissions Lab</a>|
 | Applying Filters to SQL Queries         | <a href="https://github.com/Serg-Luka/Applying-Filter-to-SQL-Queries/">SQL Lab</a>|
 | Vulnerability Assessment using NIST SP 800-30      | <a href="https://github.com/Serg-Luka/Conducting-a-Vulnerability-Assessment/">Vulnerability Assessment Lab</a>|
 | Packet Capture Analysis (Wireshark & tcpdump)                  |<a href="https://github.com/Serg-Luka/Packet-Capture-Analysis/">Network Analysis Lab</a>|
@@ -183,5 +184,5 @@ A list of my certifications, which can be verified by clicking the associated bu
 
 ## 📌 Helpful Resources
 
-<a href="https://github.com/Serg-Luka/Blue-Team-Links/blob/main/README.md ">Blue Team Reference Links</a>
+<a href="https://github.com/Serg-Luka/Blue-Team-Links/">Blue Team Reference Links</a>
 
