@@ -42,6 +42,7 @@ My skills and the hands-on projects that showcase my practical experience.
 |---------------------------------------------------|------------------------------------------------------------------------------------|
 | Brute-Force and Credential-Stuffing Detection  | <a href="https://github.com/Serg-Luka/Incident-Response-Brute-Force-Alert-Rule">Brute-Force and Credential-Stuffing Alert Rule</a> |
 | Suspicious PowerShell Activity Detection       | <a href="https://github.com/Serg-Luka/PowerShell-Suspicious-Web-Request">PowerShell Suspicious Web Request Alert Rule</a> |
+| Impossible Travel Identification with Enhanced Accuracy           | <a href="https://github.com/Serg-Luka/Potential-Impossible-Travel-">Refined Impossible Travel Detection Rule</a>           |
 
 #### Threat Hunting Labs
 
