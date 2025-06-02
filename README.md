@@ -35,14 +35,16 @@ My skills and the hands-on projects that showcase my practical experience.
 | Network Threat Analysis (Reverse Shell Detection) | <a href="https://github.com/Serg-Luka/Analysing-Malicious-Traffic-with-Wireshark">Malicious Packet Analysis Using Wireshark</a> |
 | Cloud-Based Threat Monitoring (Azure Sentinel)    | <a href="https://github.com/Serg-Luka/SOC-and-Honeypot-in-Azure-Live-Traffic">Honeypot Monitoring in Azure (Live Traffic)</a> |
 | Cyber Kill Chain Mapping & APT Analysis (Splunk)  | <a href="https://github.com/Serg-Luka/Splunk-APT-Investigation">APT Investigation Using Splunk</a>            |
+| Web Application Security (WAF Configuration & Testing) | <a href="https://github.com/Serg-Luka/Web-Application-Firewall-SafeLine-WAF-Lab">SafeLine WAF Setup & Testing on DVWA</a> |
 
 #### Incident Response Labs
 
 | Focus Area                                             | Associated Project                                                                 |
-|---------------------------------------------------|------------------------------------------------------------------------------------|
-| Brute-Force and Credential-Stuffing Detection  | <a href="https://github.com/Serg-Luka/Incident-Response-Brute-Force-Alert-Rule">Brute-Force and Credential-Stuffing Alert Rule</a> |
-| Suspicious PowerShell Activity Detection       | <a href="https://github.com/Serg-Luka/PowerShell-Suspicious-Web-Request">PowerShell Suspicious Web Request Alert Rule</a> |
-| Impossible Travel Identification with Enhanced Accuracy           | <a href="https://github.com/Serg-Luka/Potential-Impossible-Travel-">Refined Impossible Travel Detection Rule</a>           |
+|--------------------------------------------------------|------------------------------------------------------------------------------------|
+| Credential-Based Attack Detection (Azure Sentinel)                      | <a href="https://github.com/Serg-Luka/Incident-Response-Brute-Force-Alert-Rule">Brute-Force & Credential Stuffing Detection</a> |
+| Malicious Script Execution Monitoring (Azure Sentinel)                  | <a href="https://github.com/Serg-Luka/PowerShell-Suspicious-Web-Request">PowerShell-Based Suspicious Activity Detection</a> |
+| Impossible Travel Alert Tuning (Azure Sentinel)                         | <a href="https://github.com/Serg-Luka/Potential-Impossible-Travel-">Geo-Velocity Anomaly Detection</a> |
+
 
 #### Threat Hunting Labs
 
@@ -152,12 +154,16 @@ A list of my certifications, which can be verified by clicking the associated bu
   <a href="https://arcx.io/verify-certificate?id=9748cdafc432ee474ca1f3f5127af0cb3128103a&k=71a9fc096b784eacb659a3e88a2dcfb0" target="_blank">
     <img src="https://img.shields.io/badge/ArcX%20Cyber%20Threat%20Intelligence%20101-orange?style=for-the-badge&logo=search&logoColor=white" />
   </a><br>
+
+<a href="https://drive.google.com/file/d/1Lb2j_DZFzvWS0UkzQRa0tN25pxrxOQ-b/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/CIISec%20Accredited%20Affiliate-%23005a9c?style=for-the-badge&logo=shield&logoColor=white" alt="CIISec Accredited Affiliate Badge" />
+</a>
 </div><br>
 
 **Expected:**
 
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/CompTIA%20CySA%2B%20(Expected%20--%20June%202025)-FFFFFF?style=for-the-badge&logo=comptia&logoColor=red&labelColor=FFFFFF&color=FFFFFF" alt="CompTIA CySA+ (Expected - June 2025) Badge" />
+  <img src="https://img.shields.io/badge/CompTIA%20CySA%2B%20(Expected%20--%20July%202025)-FFFFFF?style=for-the-badge&logo=comptia&logoColor=red&labelColor=FFFFFF&color=FFFFFF" alt="CompTIA CySA+ (Expected - June 2025) Badge" />
 </a>
 
 
