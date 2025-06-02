@@ -43,7 +43,7 @@ My skills and the hands-on projects that showcase my practical experience.
 |--------------------------------------------------------|------------------------------------------------------------------------------------|
 | Credential-Based Attack Detection (Azure Sentinel)                      | <a href="https://github.com/Serg-Luka/Incident-Response-Brute-Force-Alert-Rule">Brute-Force & Credential Stuffing Detection</a> |
 | Malicious Script Execution Monitoring (Azure Sentinel)                  | <a href="https://github.com/Serg-Luka/PowerShell-Suspicious-Web-Request">PowerShell-Based Suspicious Activity Detection</a> |
-| Impossible Travel Alert Tuning (Azure Sentinel)                         | <a href="https://github.com/Serg-Luka/Potential-Impossible-Travel-">Geo-Velocity Anomaly Detection</a> |
+| Impossible Travel Alert Tuning (Azure Sentinel)                         | <a href="https://github.com/Serg-Luka/Potential-Impossible-Travel-">Geo-Location Anomaly Detection</a> |
 
 
 #### Threat Hunting Labs
