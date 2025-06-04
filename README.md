@@ -71,6 +71,7 @@ My hands-on projects showcasing practical skills across multiple cybersecurity d
 |--------------------------------------------------------|-------------------------------------------------------------------------------|
 | Vulnerability Scanning & Remediation (Nessus)           | [Nessus Scan & Remediation](https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows) |
 | STIG Account & Authentication Hardening                 | [Secure Authentication STIGs](https://github.com/Serg-Luka/STIG-Account-Authentication-Hardening) |
+| STIG Audit Policy Configuration                 | [Audit Policy STIGs](https://github.com/Serg-Luka/STIG-Audit-Policy-Configuration) |
 
 ---
 
