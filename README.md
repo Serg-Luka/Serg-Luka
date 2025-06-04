@@ -28,7 +28,7 @@ My hands-on projects showcasing practical skills across multiple cybersecurity d
 
 ---
 
-### Personal Cybersecurity Labs  
+### Standalone Cybersecurity Labs  
 *Fundamental security skills: securing remote access, network traffic analysis, cloud monitoring, and application security.*
 
 | Focus Area                                         | Project                                                                       |
