@@ -24,50 +24,69 @@ Connect with me.
 
 ## 🧰 Cybersecurity Labs
 
-My skills and the hands-on projects that showcase my practical experience.
+My hands-on projects showcasing practical skills across multiple cybersecurity domains.
 
-#### Personal Cybersecurity Labs
+---
 
-| Focus Area                                         | Associated Project                                                                 |
-|----------------------------------------------------|------------------------------------------------------------------------------------|
-| SSH Hardening (Fail2Ban, UFW, KeyAuth, Tailscale) | <a href="https://github.com/Serg-Luka/SSH-Hardening-Home-Lab">Enhancing SSH Security</a> |
-| Vulnerability Management (Tenable Nessus)         | <a href="https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows">Nessus Scan & Remediation</a> |
-| Network Threat Analysis (Reverse Shell Detection) | <a href="https://github.com/Serg-Luka/Analysing-Malicious-Traffic-with-Wireshark">Malicious Packet Analysis Using Wireshark</a> |
-| Cloud-Based Threat Monitoring (Azure Sentinel)    | <a href="https://github.com/Serg-Luka/SOC-and-Honeypot-in-Azure-Live-Traffic">Honeypot Monitoring in Azure (Live Traffic)</a> |
-| Cyber Kill Chain Mapping & APT Analysis (Splunk)  | <a href="https://github.com/Serg-Luka/Splunk-APT-Investigation">APT Investigation Using Splunk</a>            |
-| Web Application Security (WAF Configuration & Testing) | <a href="https://github.com/Serg-Luka/Web-Application-Firewall-SafeLine-WAF-Lab">SafeLine WAF Setup & Testing on DVWA</a> |
+### Personal Cybersecurity Labs  
+*Fundamental security skills: securing remote access, network traffic analysis, cloud monitoring, and application security.*
 
-#### Incident Response Labs
+| Focus Area                                         | Project                                                                       |
+|----------------------------------------------------|-------------------------------------------------------------------------------|
+| SSH Hardening (Fail2Ban, UFW, KeyAuth, Tailscale) | [Enhancing SSH Security](https://github.com/Serg-Luka/SSH-Hardening-Home-Lab) |
+| Network Traffic Analysis (Wireshark)               | [Malicious Packet Analysis](https://github.com/Serg-Luka/Analysing-Malicious-Traffic-with-Wireshark) |
+| Cloud Honeypot Monitoring (Azure Sentinel)         | [Azure SOC Honeypot](https://github.com/Serg-Luka/SOC-and-Honeypot-in-Azure-Live-Traffic) |
+| Web Application Firewall Configuration              | [SafeLine WAF on DVWA](https://github.com/Serg-Luka/Web-Application-Firewall-SafeLine-WAF-Lab) |
+| APT & Cyber Kill Chain Investigation (Splunk)      | [APT Investigation](https://github.com/Serg-Luka/Splunk-APT-Investigation) |
 
-| Focus Area                                             | Associated Project                                                                 |
-|--------------------------------------------------------|------------------------------------------------------------------------------------|
-| Credential-Based Attack Detection (Azure Sentinel)                      | <a href="https://github.com/Serg-Luka/Incident-Response-Brute-Force-Alert-Rule">Brute-Force & Credential Stuffing Detection</a> |
-| Malicious Script Execution Monitoring (Azure Sentinel)                  | <a href="https://github.com/Serg-Luka/PowerShell-Suspicious-Web-Request">PowerShell-Based Suspicious Activity Detection</a> |
-| Impossible Travel Alert Tuning (Azure Sentinel)                         | <a href="https://github.com/Serg-Luka/Potential-Impossible-Travel-">Geo-Location Anomaly Detection</a> |
+---
 
+### Incident Response Labs  
+*Detecting and responding to credential attacks, malicious scripts, and anomalous user activity using Azure Sentinel.*
 
-#### Threat Hunting Labs
+| Focus Area                                             | Project                                                                       |
+|--------------------------------------------------------|-------------------------------------------------------------------------------|
+| Brute-Force & Credential Stuffing Detection            | [Brute-Force Alert Rule](https://github.com/Serg-Luka/Incident-Response-Brute-Force-Alert-Rule) |
+| PowerShell Suspicious Activity                          | [PowerShell Suspicious Web Request](https://github.com/Serg-Luka/PowerShell-Suspicious-Web-Request) |
+| Impossible Travel Anomaly Detection                     | [Geo-Location Anomaly Detection](https://github.com/Serg-Luka/Potential-Impossible-Travel-) |
 
-| Focus Area                                             | Associated Project                                                                 |
-|---------------------------------------------------|------------------------------------------------------------------------------------|
-| Multi-Stage Attack Investigation (MDE & KQL)	            | <a href="https://github.com/Serg-Luka/Threat-Hunting-CTF">The Great Admin Heist – Threat Hunting CTF</a> |
-| External Threat Detection (MDE & KQL)            | <a href="https://github.com/Serg-Luka/threat-hunting-brute-force">Public Facing IP Detection</a> |
-| Internal Network Monitoring (MDE & KQL)         | <a href="https://github.com/Serg-Luka/Sudden-Network-Slowdowns-Incident">Sudden Network Slowdowns</a> |
-| Insider Threat Detection (MDE & KQL)             | <a href="https://github.com/Serg-Luka/Threat-Hunting-Incident-Data-Exfiltration-Employee">Data Exfiltration by Employee</a> |
+---
 
+### Threat Hunting Labs  
+*Advanced threat hunting using Microsoft Defender for Endpoint and Kusto Query Language (KQL).*
 
-#### Google Cybersecurity Professional Labs
+| Focus Area                                             | Project                                                                       |
+|--------------------------------------------------------|-------------------------------------------------------------------------------|
+| Multi-Stage Attack Investigation                        | [The Great Admin Heist CTF](https://github.com/Serg-Luka/Threat-Hunting-CTF) |
+| Public-Facing IP & Brute-Force Detection                | [Public Facing IP Detection](https://github.com/Serg-Luka/threat-hunting-brute-force) |
+| Internal Network Slowdown Investigation                  | [Network Slowdowns Incident](https://github.com/Serg-Luka/Sudden-Network-Slowdowns-Incident) |
+| Insider Threat & Data Exfiltration                       | [Data Exfiltration by Employee](https://github.com/Serg-Luka/Threat-Hunting-Incident-Data-Exfiltration-Employee) |
 
-| Focus Area                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Security Audit and Risk Assessment Reporting          | <a href="https://github.com/Serg-Luka/Risk-Management-Lab/">Risk Management Lab</a>|
-| Managing Authorisation | <a href="https://github.com/Serg-Luka/Managing-Authorisation/">File Permissions Lab</a>|
-| Applying Filters to SQL Queries         | <a href="https://github.com/Serg-Luka/Applying-Filter-to-SQL-Queries/">SQL Lab</a>|
-| Vulnerability Assessment using NIST SP 800-30      | <a href="https://github.com/Serg-Luka/Conducting-a-Vulnerability-Assessment/">Vulnerability Assessment Lab</a>|
-| Packet Capture Analysis (Wireshark & tcpdump)                  |<a href="https://github.com/Serg-Luka/Packet-Capture-Analysis/">Network Analysis Lab</a>|
-| Incident Handler's Journal      | <a href="https://github.com/Serg-Luka/Incident-Handler-Journal/">Incident Handler Lab</a>|
-| Attack Simulation and Threat Analysis (PASTA) Model      | <a href="https://github.com/Serg-Luka/Identify-Security-Requirements-with-PASTA/tree/main">PASTA Worksheet</a>|
-<br>
+---
+
+### Vulnerability & Compliance Labs  
+*Scanning and remediating vulnerabilities and applying security baselines.*
+
+| Focus Area                                             | Project                                                                       |
+|--------------------------------------------------------|-------------------------------------------------------------------------------|
+| Vulnerability Scanning & Remediation (Nessus)           | [Nessus Scan & Remediation](https://github.com/Serg-Luka/Tenable-Nessus-Vulnerability-Scan-and-Remediation-in-Windows) |
+| STIG Account & Authentication Hardening                 | [Secure Authentication STIG](https://github.com/Serg-Luka/STIG-Account-Authentication-Hardening) |
+
+---
+
+### Google Cybersecurity Professional Labs  
+*Core cybersecurity principles and frameworks from Google’s Cybersecurity Professional training.*
+
+| Focus Area                                             | Project                                                                       |
+|--------------------------------------------------------|-------------------------------------------------------------------------------|
+| Risk Assessment & Security Audits                       | [Risk Management Lab](https://github.com/Serg-Luka/Risk-Management-Lab/)      |
+| File Permissions & Access Controls                       | [File Permissions Lab](https://github.com/Serg-Luka/Managing-Authorisation/)  |
+| SQL Injection Filters                                   | [SQL Filtering Lab](https://github.com/Serg-Luka/Applying-Filter-to-SQL-Queries/) |
+| Vulnerability Assessment (NIST SP 800-30)                | [Vulnerability Assessment Lab](https://github.com/Serg-Luka/Conducting-a-Vulnerability-Assessment/) |
+| Network Packet Capture Analysis                          | [Network Analysis Lab](https://github.com/Serg-Luka/Packet-Capture-Analysis/) |
+| Incident Handling Documentation                          | [Incident Handler Journal](https://github.com/Serg-Luka/Incident-Handler-Journal/) |
+| Threat Modelling (PASTA Framework)                       | [PASTA Worksheet](https://github.com/Serg-Luka/Identify-Security-Requirements-with-PASTA/tree/main) |
+
 
 ## 🛠️ Tools
 
