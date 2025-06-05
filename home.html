@@ -26,8 +26,8 @@
                 var filteredData = jsonData.filter(row => row.some(filledCell));
 
                 // Heuristic to find the header row by ignoring rows with fewer filled cells than the next row
-                var headerRowIndex = filteredData.findIndex((row, index) =>
-                  row.filter(filledCell).length >= filteredData[index + 1]?.filter(filledCell).length
+                var headerRowIndex = jsonData.findIndex((row, index) =>
+                  row.filter(filledCell).length >= jsonData[index + 1]?.filter(filledCell).length
                 );
                 // Fallback
                 if (headerRowIndex === -1 || headerRowIndex > 25) {
@@ -283,6 +283,10 @@
             <tr>
                 <td>STIG Audit Policy Configuration</td>
                 <td><a href="https://github.com/Serg-Luka/STIG-Audit-Policy-Configuration">Audit Policy STIGs</a></td>
+            </tr>
+            <tr>
+                <td>STIG Disabling Insecure Features</td>
+                <td><a href="https://github.com/Serg-Luka/STIG-Disabling-Insecure-Features/">System Hardening STIGs</a></td>
             </tr>
         </table>
 
