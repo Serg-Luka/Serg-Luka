@@ -94,54 +94,62 @@ My hands-on projects showcasing practical skills across multiple cybersecurity d
 
 Here’s a look at the tools I’ve worked with and have experience using.
 
-#### Network
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-<img src="https://img.shields.io/badge/-Snort-F06A99?&style=for-the-badge&logo=Snort&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network_Miner-2E8B57?&style=for-the-badge&logo=Network_Miner&logoColor=white" />
-</div>
-
-#### Endpoint
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-#### SIEM
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
-#### Vulnerability Scanning
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-Tenable_Nessus-00C176?&style=for-the-badge&logo=Tenable&logoColor=white" />
-</div>
-
-#### Email Analysis
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-PhishTool-FF5733?&style=for-the-badge&logo=PhishTool&logoColor=white" />
-</div>
-
-#### Platforms
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-007FFF?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
-</div>
+### 🕵️ Threat Intelligence
+![OpenCTI](https://img.shields.io/badge/-OpenCTI-2A2A2A?&style=for-the-badge&logo=OpenCTI&logoColor=white)
+![MISP](https://img.shields.io/badge/-MISP-D44A3D?&style=for-the-badge&logo=MISP&logoColor=white)
+![Cisco Talos](https://img.shields.io/badge/-Cisco_Talos-0061F2?&style=for-the-badge&logo=Cisco&logoColor=white)
+![Abuse.CH](https://img.shields.io/badge/-Abuse.CH-5C5C5C?&style=for-the-badge&logo=AbuseCH&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/-MITRE_ATT%26CK-FF4F00?&style=for-the-badge&logo=MITRE&logoColor=white)
 
 
-#### Analysis Tools
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/-URLscan-FF6600?&style=for-the-badge&logo=URLscan&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirusTotal-2D9B1D?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco_Talos-0061F2?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Abuse.CH-5C5C5C?&style=for-the-badge&logo=AbuseCH&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-FF4F00?&style=for-the-badge&logo=MITRE&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ANY.RUN-6A5ACD?&style=for-the-badge&logo=WindowsTerminal&logoColor=white" />
-</div><br>
+### 🌐 Network Analysis & Monitoring
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
+![TShark](https://img.shields.io/badge/-TShark-008CBA?&style=for-the-badge&logo=Wireshark&logoColor=white)
+![Zeek](https://img.shields.io/badge/-Zeek-9C27B0?&style=for-the-badge&logo=Zeek&logoColor=white)
+![Brim](https://img.shields.io/badge/-Brim-111111?&style=for-the-badge&logo=Brim&logoColor=white)
+![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white)
+![Snort](https://img.shields.io/badge/-Snort-F06A99?&style=for-the-badge&logo=Snort&logoColor=white)
+![Network Miner](https://img.shields.io/badge/-Network_Miner-2E8B57?&style=for-the-badge&logo=Network_Miner&logoColor=white)
+
+
+### 🖥️ Endpoint Monitoring & EDR
+![Microsoft Defender for Endpoint](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-800080?&style=for-the-badge&logo=Wazuh&logoColor=white)
+![Osquery](https://img.shields.io/badge/-Osquery-4A90E2?&style=for-the-badge&logo=Osquery&logoColor=white)
+![Sysinternals](https://img.shields.io/badge/-Sysinternals-003366?&style=for-the-badge&logo=Windows&logoColor=white)
+![Sysmon](https://img.shields.io/badge/-Sysmon-0078D7?&style=for-the-badge&logo=WindowsTerminal&logoColor=white)
+
+
+### 🧠 SIEM & Log Analysis
+![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)
+
+
+### 🛡️ Vulnerability Management
+![Tenable Nessus](https://img.shields.io/badge/-Tenable_Nessus-00C176?&style=for-the-badge&logo=Tenable&logoColor=white)
+
+
+### 📧 Email Threat Analysis
+![PhishTool](https://img.shields.io/badge/-PhishTool-FF5733?&style=for-the-badge&logo=PhishTool&logoColor=white)
+
+
+### 🧪 Malware & Forensics Tools
+![YARA](https://img.shields.io/badge/-YARA-424242?&style=for-the-badge&logo=YARA&logoColor=white)
+![Autopsy](https://img.shields.io/badge/-Autopsy-00838F?&style=for-the-badge&logo=Autopsy&logoColor=white)
+![Redline](https://img.shields.io/badge/-Redline-B71C1C?&style=for-the-badge&logo=RedHat&logoColor=white)
+![ANY.RUN](https://img.shields.io/badge/-ANY.RUN-6A5ACD?&style=for-the-badge&logo=WindowsTerminal&logoColor=white)
+
+
+### 🧰 Web & File Analysis Tools
+![VirusTotal](https://img.shields.io/badge/-VirusTotal-2D9B1D?&style=for-the-badge&logo=VirusTotal&logoColor=white)
+![URLscan](https://img.shields.io/badge/-URLscan-FF6600?&style=for-the-badge&logo=URLscan&logoColor=white)
+
+
+### 🖥️ Platforms & Virtualisation
+![Windows](https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-007FFF?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white)
 
 
 ## 📑 Certifications
