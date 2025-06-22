@@ -133,14 +133,14 @@ Here’s a look at the tools I’ve worked with and have experience using.
 ![PhishTool](https://img.shields.io/badge/-PhishTool-FF5733?&style=for-the-badge&logo=PhishTool&logoColor=white)
 
 
-### 🧪 Malware & Forensics Tools
+### 🧪 Malware & Forensics
 ![YARA](https://img.shields.io/badge/-YARA-424242?&style=for-the-badge&logo=YARA&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/-Autopsy-00838F?&style=for-the-badge&logo=Autopsy&logoColor=white)
 ![Redline](https://img.shields.io/badge/-Redline-B71C1C?&style=for-the-badge&logo=RedHat&logoColor=white)
 ![ANY.RUN](https://img.shields.io/badge/-ANY.RUN-6A5ACD?&style=for-the-badge&logo=WindowsTerminal&logoColor=white)
 
 
-### 🧰 Web & File Analysis Tools
+### 🧰 Web & File Analysis
 ![VirusTotal](https://img.shields.io/badge/-VirusTotal-2D9B1D?&style=for-the-badge&logo=VirusTotal&logoColor=white)
 ![URLscan](https://img.shields.io/badge/-URLscan-FF6600?&style=for-the-badge&logo=URLscan&logoColor=white)
 
