@@ -184,7 +184,7 @@ A list of my certifications, which can be verified by clicking the associated bu
     <img src="https://img.shields.io/badge/ArcX%20Cyber%20Threat%20Intelligence%20101-orange?style=for-the-badge&logo=search&logoColor=white" />
   </a><br>
 
-<a href="https://drive.google.com/file/d/1Lb2j_DZFzvWS0UkzQRa0tN25pxrxOQ-b/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+<a href="https://www.credly.com/badges/072381c4-38de-4d31-90ba-04623644b281" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/CIISec%20Accredited%20Affiliate-%23005a9c?style=for-the-badge&logo=shield&logoColor=white" alt="CIISec Accredited Affiliate Badge" />
 </a>
 </div><br>
