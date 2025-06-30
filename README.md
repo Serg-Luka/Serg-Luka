@@ -195,9 +195,9 @@ A list of my certifications, which can be verified by clicking the associated bu
   <img src="https://img.shields.io/badge/CompTIA%20CySA%2B%20(Expected%20--%20July%202025)-FFFFFF?style=for-the-badge&logo=comptia&logoColor=red&labelColor=FFFFFF&color=FFFFFF" alt="CompTIA CySA+ (Expected - June 2025) Badge" />
 </a>
 
+### [👉 Click here to view all 17+ of my certifications.](https://www.linkedin.com/in/serg-luka/)
 
 </div><br>
-
 
 ## 🎓 Formal Education
 
