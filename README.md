@@ -189,13 +189,13 @@ A list of my certifications, which can be verified by clicking the associated bu
 </a>
 </div><br>
 
+[<img src="https://img.shields.io/badge/%E2%9E%A1%20View%20All%2017%2B%20Certifications%20on%20LinkedIn-60a5fa?style=for-the-badge&labelColor=60a5fa&color=60a5fa" alt="➡️ View All 17+ Certifications on LinkedIn" style="transform: scale(1.3); display: inline-block;">](https://www.linkedin.com/in/serg-luka/)
+
 **Expected:**
 
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA%20CySA%2B%20(Expected%20--%20July%202025)-FFFFFF?style=for-the-badge&logo=comptia&logoColor=red&labelColor=FFFFFF&color=FFFFFF" alt="CompTIA CySA+ (Expected - June 2025) Badge" />
 </a>
-
-### [👉 Click here to view all 17+ of my certifications.](https://www.linkedin.com/in/serg-luka/)
 
 </div><br>
 
