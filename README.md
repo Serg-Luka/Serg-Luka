@@ -201,7 +201,7 @@ A list of my certifications, which can be verified by clicking the associated bu
 
 ## 🎓 Formal Education
 
-**First-Class Honours Degree in Business Studies**  
+**First-Class Honours Degree in BA Business Studies**  
 *Nottingham Trent University*<br><br>
 
 
